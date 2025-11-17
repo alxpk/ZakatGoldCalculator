@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.GoldZakat" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#3bb242</item>
+        <item name="colorSecondary">#FFD700</item>
+        <item name="android:statusBarColor">#3bb242</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="ToolbarThemeWhite" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/black</item>
+    </style>
+
+    <style name="SpinnerItem" parent="Widget.AppCompat.Spinner">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="gold_types">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>
